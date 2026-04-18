@@ -403,7 +403,7 @@
                                     <goal>npm</goal>
                                 </goals>
                                 <configuration>
-                                    <arguments>ci install --legacy-peer-deps</arguments>
+                                    <arguments>install --legacy-peer-deps</arguments>
                                 </configuration>
                             </execution>
                             <execution>
